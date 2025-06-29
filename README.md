@@ -1,1 +1,2 @@
 # calories-burnt-prediction
+Built a predictive machine learning model to estimate calories burnt based on individual health and activity parameters such as age, gender, height, weight, heart rate, and duration of physical activity. Applied regression techniques and data preprocessing to develop an accurate, data-driven approach for health and fitness tracking. The project demonstrates how ML can support personalized fitness insights.
